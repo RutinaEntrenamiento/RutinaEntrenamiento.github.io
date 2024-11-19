@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(0, 83, 32);
+    
+}
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: arial black;
+    background-color: rgb(255, 174, 0);
+    border-radius: 10px;
+    padding: 10px;
+}
+p {
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+table {
+    background-color: rgb(189, 188, 186);
+}
+h3 {
+    color: rgb(0, 0, 0);
+    font-family: arial black;
+    background-color: rgb(255, 174, 0);
+    border: 10px;
+    padding: 10px;
+    font-size: 23px;
+}
+ul {
+    font-size: 20px;
+}
+li { 
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.final {
+    color:rgb(255, 174, 0);
+    
+}
+h4 {
+    font-size: 30px;
+    color: white;
+}
